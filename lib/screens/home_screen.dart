@@ -374,7 +374,11 @@ class _HomeScreenState extends State<HomeScreen> {
                             ),
                           ],
                         ),
-                      )
+                      ),
+                      Icon(
+                              Icons.more_vert,
+                              size: 30,
+                            ),
                     ],
                   ),
                 ),
